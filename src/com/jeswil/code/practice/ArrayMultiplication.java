@@ -1,3 +1,9 @@
+/* (JAVA 8)
+* Multiply two Matrices of the form
+* (mxn) * (n*p)
+* Resultant matrix is of order (m*p)
+* */
+
 package com.jeswil.code.practice;
 
 import java.util.Scanner;
